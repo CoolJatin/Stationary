@@ -14,7 +14,7 @@ function App() {
           href="#"
           rel="noopener noreferrer"
         >
-          Coming Soon..
+          Coming Soon
         </a>
       </header>
     </div>
