@@ -11,7 +11,7 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="jatin-sangwan.netlify.app"
+          href="https://jatin-sangwan.netlify.app/"
           rel="noopener noreferrer"
         >
           Coming Soon
